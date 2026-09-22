@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+"Learning Git is fun! Hi, this is trial branch notes to replace separate txt"
+=======
 "Learning Git is fun! Hi, this is trial branch notes separated txt"
+>>>>>>> master
