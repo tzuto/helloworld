@@ -1,1 +1,1 @@
-"Learning Git is fun! Here is the first revision!"
+"Learning Git is fun!" 
