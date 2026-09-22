@@ -1,1 +1,1 @@
-"Learning Git is fun! Hi, this is trial branch notes separate txt"
+"Learning Git is fun! Hi, this is trial branch notes separated txt"
